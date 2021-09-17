@@ -5,9 +5,9 @@ This projects implemented concepts learned in ECE252. Relevant concepts include:
 
 ### Lab1: Introduction to systems programming in Linux computing environment
 This lab is to introduce system programming in a general Linux Development Environment. There are three small projects in this lab which achieve the functionalities of: 
-	• pnginfo: output the size of a png image and display error if the input file is not a png or has wrong CRC value
-	• findpng: search for png files in a directory hierarchy
-	• catpng: concatenate png images vertically to a new PNG named all.png
+	* pnginfo: output the size of a png image and display error if the input file is not a png or has wrong CRC value
+	* findpng: search for png files in a directory hierarchy
+	* catpng: concatenate png images vertically to a new PNG named all.png
 
 
 ### Lab2: Multi-threaded concurrency programming with blocking I/O
